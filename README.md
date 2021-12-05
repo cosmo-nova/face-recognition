@@ -4,7 +4,6 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Libraries] (#libraries)
 - [Setup](#setup)
 
 ## General info
@@ -17,7 +16,7 @@ Project is created with:
 
 - python3
 
-# Libraries
+- Libraries
 
 - [opencv 4.5.4] (#https://opencv.org/releases/)
 - [Cascade files] (#https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
@@ -33,7 +32,7 @@ To run this project follow below steps -
 
 ---
 
-pip install opencv-python
-python face-detection.py
+$pip install opencv-python
+$python face-detection.py
 
 ---
