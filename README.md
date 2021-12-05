@@ -4,7 +4,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Libraries] (#libraries)
+- [Libraries](#libraries)
 - [Setup](#setup)
 
 ## General info
@@ -19,8 +19,8 @@ Project is created with:
 
 ## Libraries
 
-- [opencv 4.5.4] (https://opencv.org/releases/)
-- [Cascade files] (https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+- [opencv 4.5.4](https://opencv.org/releases/)
+- [Cascade files](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
 # Setup
 
