@@ -29,7 +29,7 @@ Project is created with:
 
 To run this project follow below steps -
 
-- Note - Replace the file path (pathf) in code with the actual image you want to use
+- Note - Replace the file path (pathf) in code with the actual xml and img with the image you want to use
 
 ---
 
