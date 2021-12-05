@@ -1,7 +1,6 @@
 import cv2
-import sys
 # Load the cascade 
-pathf = 'path\\to\\haarcascades\\xml\\file''
+pathf = 'path\\to\\haarcascades\\xml\\file'
 face_cascade = cv2.CascadeClassifier(pathf)
 
 # Read the input image
